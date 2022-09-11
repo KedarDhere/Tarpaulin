@@ -1,0 +1,101 @@
+[
+  {
+    "assignmentID": 1,
+    "courseID": 1,
+    "title": "Homework 1",
+    "description": "Asymptotic Analysis and Sorting Algorithms",
+    "dueDate": "04/11/2022"
+   },
+   {
+    "assignmentID": 2,
+    "courseID": 1,
+    "title": "Homework 2",
+    "description": "Knapsack Recursive vs DP",
+    "dueDate": "04/19/2022"
+   },
+   {
+    "assignmentID": 1,
+    "courseID": 2,
+    "title": "Assignment 4",
+    "description": "Hash Indexing ",
+    "dueDate": "04/22/2022"
+   },
+   {
+    "assignmentID": 2,
+    "courseID": 2,
+    "title": "Assignment 5",
+    "description": "Sort-merge Join ",
+    "dueDate": "03/01/2022"
+   },
+   {
+    "assignmentID": 5,
+    "courseID": 3,
+    "title": "Mini Project",
+    "description": "Exploration of TinyML and Domain Specific Accelerators",
+    "dueDate": "12/03/2022"
+    },
+    {
+      "assignmentID": 3,
+      "courseID": 3,
+      "title": "Homework 3",
+      "description": "Module 6 and Module 7",
+      "dueDate": "11/17/2022"
+    },
+    {
+      "assignmentID": 1,
+      "courseID": 4,
+      "title": "Project 1",
+      "description": "Simple OpenMP Experiment  ",
+      "dueDate": "04/04/2022"
+    },
+    {
+      "assignmentID": 2,
+      "courseID": 4,
+      "title": "Project 7",
+      "description": "MPI ",
+      "dueDate": "06/10/2022"
+    },
+    {
+      "assignmentID": 1,
+      "courseID": 5,
+      "title": "Assignment 2",
+      "description": "REST API ",
+      "dueDate": "01/16/2022"
+    },
+    {
+      "assignmentID": 2,
+      "courseID": 5,
+      "title": "Assignment 5",
+      "description": "AWS ",
+      "dueDate": "02/06/2022"
+    },
+    {
+      "assignmentID": 1,
+      "courseID": 6,
+      "title": "Assignment 1",
+      "description": "Make a Prototype ",
+      "dueDate": "04/11/2022"
+    },
+    {
+      "assignmentID": 2,
+      "courseID": 6,
+      "title": "Assignment 4",
+      "description": "Define final Product",
+      "dueDate": "05/11/2022"
+    },
+    {
+      "assignmentID": 4,
+      "courseID": 7,
+      "title": "Assignment 3",
+      "description": " Introduction to Scientific Visualization",
+      "dueDate": "04/11/2022"
+    },
+    {
+      "assignmentID": 6,
+      "courseID": 7,
+      "title": "Assignment 5",
+      "description": "Assignment 5 ",
+      "dueDate": "05/11/2022"
+    }
+]
+
